@@ -1,5 +1,7 @@
 data
-
+/config.yaml
+config.yaml
+datasets/
 # Temporary files
 _*.ipynb
 _*.py
