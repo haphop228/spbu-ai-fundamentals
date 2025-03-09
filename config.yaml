@@ -1,6 +1,6 @@
 house_pricing:
-  train_dataset: datasets/kaggle_house_prices/train.csv
-  test_dataset: datasets/kaggle_house_prices/test.csv
+  train_dataset: C:/Users/User/projects_python/spbu-ai-fundamentals/datasets/kaggle_house_prices/train.csv
+  test_dataset: C:/Users/User/projects_python/spbu-ai-fundamentals/datasets/kaggle_house_prices/test.csv
 classification:
   wdbc: D:\data\spbu_ai_fundamentals/classification/data.csv
   mushrooms: D:\data\spbu_ai_fundamentals/classification/mushrooms.csv
